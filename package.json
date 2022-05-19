@@ -1,0 +1,41 @@
+{
+  "name": "lambirou-vscode-flutter-pack",
+  "displayName": "Flutter Workspace Extension Pack",
+  "description": "Visual Studio Code extension pack for Flutter Workspace.",
+  "version": "1.0.0",
+  "publisher": "lambirou",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambirou/lambirou-vscode-flutter-pack"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0F3D5F",
+    "theme": "light"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "flutter"
+  ],
+  "extensionPack": [
+    "gornivv.vscode-flutter-files",
+    "felixangelov.bloc",
+    "dart-code.dart-code",
+    "bendixma.dart-data-class-generator",
+    "dart-code.flutter",
+    "jeroen-meijer.pubspec-assist",
+    "nash.awesome-flutter-snippets",
+    "toba.vsfire",
+    "jsayol.firebase-explorer",
+    "marcelovelasquez.flutter-tree",
+    "everettjf.pubspec-dependency-search",
+    "vadimcn.vscode-lldb",
+    "sswg.swift-lang",
+    "lambirou.lambirou-vscode-java-pack"
+  ]
+}
